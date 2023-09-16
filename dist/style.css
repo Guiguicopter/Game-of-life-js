@@ -1,0 +1,15 @@
+* {
+    overflow: hidden;
+    background: white;
+    text-align: center;
+}
+
+.cell{
+    position: absolute;
+    border: none;
+}
+
+.button{
+    position: relative;
+    visibility: hidden;
+}
